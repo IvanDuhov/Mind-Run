@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e61d53b4988dd3d449beabbd9c107e8b
+  - enabled: 1
+    path: Assets/Scenes/Games/MemoryGrid/Memory grid.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Games/Train/Train.unity
+    guid: c04aefce75e8a9241b30edc77c70ab46
+  - enabled: 1
+    path: Assets/Scenes/Games.unity
+    guid: 7493c10575ad39f4a972331d5f0776b4
+  - enabled: 1
+    path: Assets/Scenes/Games/CardSort/CardSort.unity
+    guid: 0e2cf7d5ec10ae94fb468a6cf406071c
+  - enabled: 1
+    path: Assets/Scenes/Games/TrueColour/True colour.unity
+    guid: 2f164a7175b28094eaaadef4c9bc67b7
+  - enabled: 1
+    path: Assets/Scenes/WorkoutRecap.unity
+    guid: a9e730ada926eb7469b744d937677044
+  - enabled: 1
+    path: Assets/Scenes/Games/WordCreation/WordCreation.unity
+    guid: 931624ade489c904d8a67329d5a6f2a3
+  - enabled: 1
+    path: Assets/Scenes/Games/TrueColour/TrueColourHelp.unity
+    guid: 050026e330e73c540a16df68f3cd8769
+  - enabled: 1
+    path: Assets/Scenes/Games/WordCreation/WordCreationHelp.unity
+    guid: 52b3299c6f91de745a5a0b29fdb0b0aa
+  - enabled: 1
+    path: Assets/Scenes/Games/CardSort/CardSortHelp.unity
+    guid: 40d9338c186c16343a06c563fc59a4ed
+  - enabled: 1
+    path: Assets/Scenes/Games/Train/TrainHelp.unity
+    guid: d064f0748bbcf314fa3b79a564579aba
+  - enabled: 1
+    path: Assets/Scenes/Games/MemoryGrid/MGMHelp.unity
+    guid: 41484696aa1bf8343aba7352cfcd8cd2
+  - enabled: 1
+    path: Assets/Scenes/Games/CardSort/CardSortFinal.unity
+    guid: 54a526fa32a897046983795638e6923f
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: 1ab9b06a838d56340ae0e43ba0be0b83
+  - enabled: 1
+    path: Assets/Scenes/Help.unity
+    guid: f3a3c14bf332f3c4e812bf06d4c04df3
+  - enabled: 1
+    path: Assets/Scenes/Games/MemoryGrid/MGMFinal.unity
+    guid: 57579aea557cbd34ab7e6fee39743833
+  - enabled: 1
+    path: Assets/Scenes/Workout.unity
+    guid: 0866dc4d90601a345baff192396b5f1d
+  - enabled: 1
+    path: Assets/Scenes/Games/WordCreation/PreWordCreation.unity
+    guid: 3a6204590109ec3458b505b40cee7354
+  - enabled: 1
+    path: Assets/Scenes/Games/TrueColour/TrueColourFinal.unity
+    guid: 5851cae2a60301044ada2c6c5b60e335
+  - enabled: 1
+    path: Assets/Scenes/Games/WordCreation/WordCreationFinal.unity
+    guid: 15bf03959cd108f42930212051815bfa
+  - enabled: 1
+    path: Assets/Scenes/Games/Train/TrainFinal.unity
+    guid: 9969f1d70f44f6942ab9673ca997f218
+  m_configObjects: {}
